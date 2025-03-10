@@ -6,7 +6,7 @@
 Simscape es un entorno de simulacion de MATLAB de elementos mecanicos en 3D, simscape genera todas las ecuaciones que simulan el movimiento, matrices de movimiento. La simulacion de simscape se realiza por medio de bloques lo que facilita el entendimiento de estas y el uso.
 para el uso de Simscape dentro del entorno de matlab es necesario escribir el siguiente comando en el command window de matlab:
 
-![incicio Simscape](C:\Users\nicol\OneDrive\Escritorio\capturas control mark sowns)
+![incicio Simscape](/1.png)
 
 El uso de este simulador requiere de ciertos cambios para poder visualizar de manera correcta el comportamiento de nuestros elementos, para esto cambiamos el eje donde se encuentra la gravedad asignada al eje Y
 
