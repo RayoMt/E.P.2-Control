@@ -39,7 +39,7 @@ La obtencion de los datos de los perfiles de movimiento a partir de una grafica 
 # Ejemplo 1
 - Encuentre la posicion y la aceleracion en t=5s
 
-![1](x1/1.png)
+![1](c1/1.png)
  para hallar nuestra posicion u aceleracion tenemos:
  $$V=v_{0}+a(t-t_{0})$$
  $$10=a(5)$$
