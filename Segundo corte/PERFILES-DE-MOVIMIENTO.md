@@ -39,7 +39,7 @@ La obtencion de los datos de los perfiles de movimiento a partir de una grafica 
 # Ejemplo 1
 - Encuentre la posicion y la aceleracion en t=5s
 
-![1](C:\Users\rodri\OneDrive\Escritorio\U\CONTROL DE MOVIMIENTO\MARK DOWNS 2DO CORTE\PERFILES DE MOVIMIENTO)
+![1](x1/1.png)
  para hallar nuestra posicion u aceleracion tenemos:
  $$V=v_{0}+a(t-t_{0})$$
  $$10=a(5)$$
@@ -51,7 +51,7 @@ $$S=\frac{1}{2}(5)(10+2(5))$$
 $$S=50$$
 
 # Ejemplo 2
-- ![2](C:\Users\rodri\OneDrive\Escritorio\U\CONTROL DE MOVIMIENTO\MARK DOWNS 2DO CORTE\PERFILES DE MOVIMIENTO)
+
   - halle la aceleracion y la posicion del eje al detenerse considerando una posocion inicial de 25m
 
 hallando la pendiente de la recta para encontrar la aceleracion:
